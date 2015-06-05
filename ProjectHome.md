@@ -1,0 +1,1 @@
+Facile Proxy Manager provides a scriptable interface for OCLC's EZProxy.  This can be particularly useful when a large number of operations need performed against the server --  such as clearing out a large number of sessions -- without having to do each operation by hand in a web browser.
